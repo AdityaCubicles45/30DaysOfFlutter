@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_30days/models/catalog.dart';
 import 'package:flutter_30days/widgets/drawer.dart';
-
-// day 11 we learned about the context and constraints
+import 'package:flutter_30days/widgets/item_widget.dart';
 
 class HomePage extends StatelessWidget {
   final int days = 2;
@@ -10,14 +10,20 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
   @override
   Widget build(BuildContext context) {
+    final dummyList = List.generate(20, (index) => CatalogModel.items[0]);
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Ecommerce App"),
+        title: const Text("iStore App"),
       ),
-      body: Center(
-        child: Container(
-          child: Text("Welcome to $days Days of Flutter by $name!"),
-        ),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: ListView.builder(
+            itemCount: dummyList.length,
+            itemBuilder: (context, index) {
+              return ItemWidget(
+                item: dummyList[index],
+              );
+            }),
       ),
       drawer: const MyDrawer(),
     );
