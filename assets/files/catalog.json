@@ -6,7 +6,7 @@
             "desc": "Apple iPhone A16 Bionic Chip",
             "price": 139900,
             "color": "#33505a",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+            "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._AC_UF1000,1000_QL80_.jpg"
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "desc": "Apple Macbook Air with M2 Silicon Chip",
             "price": 84000,
             "color": "#e0bfae",
-            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1683559580/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256597_0_vlrxyt.png/mxw_2256,f_auto"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "desc": "Sony Playstation 5th Gen Beast",
             "price": 44990,
             "color": "#544ee4",
-            "image": "https://m.media-amazon.com/images/I/51mWHXY8hyL._SX679_.jpg"
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/console-right_@1x?fmt=png-alpha&scl=1"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "desc": "Apple Aipods Pro 2nd Generation",
             "price": 21990,
             "color": "#e3e4e9",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+            "image": "https://www.vhv.rs/dpng/d/599-5996253_airpods-pro-hd-png-download.png"
         },
         {
             "id": 6,
@@ -54,7 +54,7 @@
             "desc": "Samsung Galaxy S23 Ultra 2023 Edition",
             "price": 106990,
             "color": "#1c1c1c",
-            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmL1-KLwFYxox2xMQY7sb0snowBOQ3kwukadhoEDWP03A3izOvKmFE01esehwphN9TaoqA3KrqBek4H70wRob2ldDmODAuHJ4__otfCA2Pl6hTTd7ZRPzwDQ&usqp=CAE"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675347647/Croma%20Assets/Communication/Mobiles/Images/268884_rjem93.png/mxw_640,f_auto"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "desc": "Samsung Galaxy S23 2023 Edition",
             "price": 74999,
             "color": "#7c95eb",
-            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQaXP72F4bZZNGkpeZfM3h3sBYimwIbsqL0V5WMahazqRt2xzMraRyD8vkZxNIEqHXoak70AgJrkwjBfBAdx4RQ756dZd9kkwKpGUDAxRm9r_hS6pvw-k03LA&usqp=CAE"
+            "image": "https://i.gadgets360cdn.com/products/large/Samsung-Galaxy-S23-Plus-662x800-1675282433.jpg?downsize=*:360"
         }
     ]
 }
