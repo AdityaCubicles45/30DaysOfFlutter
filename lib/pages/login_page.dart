@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_30days/utils/routes.dart';
+import 'package:iStore/utils/routes.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

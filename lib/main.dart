@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_30days/pages/home_page.dart';
-import 'package:flutter_30days/pages/login_page.dart';
-import 'package:flutter_30days/widgets/themes.dart';
-import 'package:flutter_30days/utils/routes.dart';
+import 'package:iStore/pages/home_page.dart';
+import 'package:iStore/pages/login_page.dart';
+import 'package:iStore/widgets/themes.dart';
+import 'package:iStore/utils/routes.dart';
 
 void main() {
   runApp(const MyApp());

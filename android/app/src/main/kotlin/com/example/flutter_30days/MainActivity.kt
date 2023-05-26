@@ -1,4 +1,4 @@
-package com.example.flutter_30days
+package com.example.iStore
 
 import io.flutter.embedding.android.FlutterActivity
 

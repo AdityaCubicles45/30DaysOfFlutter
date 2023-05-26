@@ -1,4 +1,4 @@
-# flutter_30days
+# iStore
 
 A new Flutter project.
 

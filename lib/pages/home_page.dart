@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:velocity_x/velocity_x.dart';
 
-import 'package:flutter_30days/models/catalog.dart';
-import 'package:flutter_30days/widgets/themes.dart';
+import 'package:iStore/models/catalog.dart';
+import 'package:iStore/widgets/themes.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
