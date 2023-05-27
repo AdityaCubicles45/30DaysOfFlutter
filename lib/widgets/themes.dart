@@ -30,10 +30,13 @@ class MyTheme {
       ),
       hintColor: Colors.white,
       appBarTheme: AppBarTheme(
-        color: Colors.white,
+        color: Colors.black,
         elevation: 0.0,
         iconTheme: const IconThemeData(color: Colors.white),
-        titleTextStyle: Theme.of(context).textTheme.titleLarge,
+        titleTextStyle: Theme.of(context)
+            .textTheme
+            .titleLarge!
+            .copyWith(color: Colors.white),
       ));
 
   // Colors
