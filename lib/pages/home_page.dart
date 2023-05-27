@@ -7,7 +7,6 @@ import 'package:iStore/widgets/home_widgets/catalog_header.dart';
 import 'package:iStore/widgets/home_widgets/catalog_list.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:iStore/models/catalog.dart';
-import 'package:iStore/widgets/themes.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -39,10 +38,11 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
         floatingActionButton: FloatingActionButton(
           onPressed: () => Navigator.pushNamed(context, MyRoutes.cartRoute),
-          backgroundColor: MyTheme.darkBluishColor,
+          backgroundColor:
+              context.theme.floatingActionButtonTheme.backgroundColor,
           child: const Icon(CupertinoIcons.cart),
         ),
-        backgroundColor: MyTheme.creamColor,
+        backgroundColor: context.canvasColor,
         body: SafeArea(
           child: Container(
             padding: Vx.m32,
